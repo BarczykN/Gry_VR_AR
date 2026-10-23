@@ -7,3 +7,6 @@ Poniżej znajdują się linki do instrukcji na poszczególne zajęcia:
  - Lab 04 : https://docs.google.com/document/d/1293K8c1DmRw9FnAKNffhHUB3FNkgZpwJc8fiRv4OMho/edit?usp=sharing
  - Lab 05 : https://docs.google.com/document/d/1znJBONLzH8yJCXMzk2sY3j4mJDANJkpKswH0lGp-ipM/edit?usp=sharing
 
+Instrukcja do korzystania z Githuba z projektami Unity:
+https://docs.google.com/document/d/1gxt_YzSFus4wOf5sH1XwBEcWQAS2-A2V6zIRTaNHwIo/edit?usp=sharing
+
